@@ -1,17 +1,17 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
 module.exports = [
     {
-        "file": "plugins/com.mawujun.plugin.barcodeScanner/www/BarcodeScanner.js",
-        "id": "com.mawujun.plugin.barcodeScanner.BarcodeScanner",
+        "file": "plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js",
+        "id": "com.phonegap.plugins.barcodescanner.BarcodeScanner",
         "clobbers": [
-            "BarcodeScanner"
+            "cordova.plugins.barcodeScanner"
         ]
     }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "com.mawujun.plugin.barcodeScanner": "0.0.1"
+    "com.phonegap.plugins.barcodescanner": "1.0.1"
 }
 // BOTTOM OF METADATA
 });

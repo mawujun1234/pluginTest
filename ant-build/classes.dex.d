@@ -4,8 +4,15 @@ E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\aaa\BarcodeScanner$1.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\aaa\BarcodeScanner.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\BuildConfig.class \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$array.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$attr.class \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$color.class \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$dimen.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$drawable.class \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$id.class \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$layout.class \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$menu.class \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$raw.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$string.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R$xml.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\example\hello\R.class \
@@ -14,4 +21,6 @@ E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\mawujun
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\mawujun\plugin\barcodeScanner\BarcodeScanner$1$2.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\mawujun\plugin\barcodeScanner\BarcodeScanner$1.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\mawujun\plugin\barcodeScanner\BarcodeScanner.class \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\phonegap\plugins\barcodescanner\BarcodeScanner.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\dexedLibs\classes-31979b1d923e5f7c2da4d9e79905161c.jar \
+E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\dexedLibs\com.google.zxing.client.android.captureactivity-ce5ee9218bdc4bee3e37673f2950a3b6.jar \
