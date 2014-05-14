@@ -23,4 +23,3 @@ E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\mawujun
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\mawujun\plugin\barcodeScanner\BarcodeScanner.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\classes\com\phonegap\plugins\barcodescanner\BarcodeScanner.class \
 E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\dexedLibs\classes-31979b1d923e5f7c2da4d9e79905161c.jar \
-E:\eclipse\workspace1\pluginTest\platforms\android\ant-build\dexedLibs\com.google.zxing.client.android.captureactivity-ce5ee9218bdc4bee3e37673f2950a3b6.jar \
